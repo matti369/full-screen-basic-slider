@@ -4,6 +4,9 @@ var numer = Math.floor(Math.random()*5) + 1;
 var timer1 = 0;
 var timer2 = 0;
 
+
+
+
 function ustaw_slajd(nrslajdu) {
     clearTimeout(timer1);
     clearTimeout(timer2);
